@@ -29,7 +29,7 @@ app.use(async (req, res) => {
           background:#1f1228;
           border-top:1px solid rgba(255,255,255,0.08);
         ">
-          Powered by <strong style="color:#e8b563;">Kaalvion</strong>
+          Powered by <strong style="color:#e8b563;">KAALVION</strong>
         </div>
       `;
 
